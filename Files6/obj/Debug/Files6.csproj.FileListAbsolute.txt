@@ -5,3 +5,10 @@ E:\Users\xiamaksi\source\repos\Files6\Files6\obj\Debug\Files6.csproj.AssemblyRef
 E:\Users\xiamaksi\source\repos\Files6\Files6\obj\Debug\Files6.csproj.CoreCompileInputs.cache
 E:\Users\xiamaksi\source\repos\Files6\Files6\obj\Debug\Files6.exe
 E:\Users\xiamaksi\source\repos\Files6\Files6\obj\Debug\Files6.pdb
+E:\Users\xiamaksi\Desktop\Хуйня с кодами\мдк 01.04\Файлы№1(Практика №6)\Files6\bin\Debug\Files6.exe.config
+E:\Users\xiamaksi\Desktop\Хуйня с кодами\мдк 01.04\Файлы№1(Практика №6)\Files6\bin\Debug\Files6.exe
+E:\Users\xiamaksi\Desktop\Хуйня с кодами\мдк 01.04\Файлы№1(Практика №6)\Files6\bin\Debug\Files6.pdb
+E:\Users\xiamaksi\Desktop\Хуйня с кодами\мдк 01.04\Файлы№1(Практика №6)\Files6\obj\Debug\Files6.csproj.AssemblyReference.cache
+E:\Users\xiamaksi\Desktop\Хуйня с кодами\мдк 01.04\Файлы№1(Практика №6)\Files6\obj\Debug\Files6.csproj.CoreCompileInputs.cache
+E:\Users\xiamaksi\Desktop\Хуйня с кодами\мдк 01.04\Файлы№1(Практика №6)\Files6\obj\Debug\Files6.exe
+E:\Users\xiamaksi\Desktop\Хуйня с кодами\мдк 01.04\Файлы№1(Практика №6)\Files6\obj\Debug\Files6.pdb
